@@ -1,4 +1,4 @@
-[# BoneFractureDetection
+[[# BoneFractureDetection
 Bone Fracture Detection using deep learning (Resnet50)
 To run the project --1)clone the repo
 2)Install requirements.txt
@@ -62,4 +62,3 @@ Info-Rules
 
 Test Normal & Fractured
  
-](https://github.com/manikantavarma2889/Bone-Fracture-Detection/edit/main/README.md)
